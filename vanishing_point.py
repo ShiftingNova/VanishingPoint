@@ -1,3 +1,9 @@
+#
+# Jordan Walker
+# CSC10
+# Main runs a while loop for the graphics. 
+#There is a second while loop for the blades of grass.
+#
 from graphics import graphics
 def main():
     gui = graphics(500,500, "Vashiing Point")
